@@ -4,6 +4,7 @@ title: Repo of Smart Contracts I've Written for Different Protocols
 description:
 img: assets/img/blockchain.jpg
 importance: 1
+category: OpenSource
 ---
 
 This is a list of protocols / projects I've written Smart Contracts for during my education and Open Source Work Experience
