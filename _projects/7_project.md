@@ -23,7 +23,7 @@ An Account Abstraction contract factory for zkSync and Ethereum; writing AA-comp
 
 ### 𝐒𝐭𝐚𝐛𝐥𝐞 𝐂𝐨𝐢𝐧
 
-A DeFi protocol for a stable coin pegged to USD. [View here]()
+A DeFi protocol for a stable coin pegged to USD. [View here](https://github.com/EggsyOnCode/stable-coin-X)
 
 ### 𝐀𝐩𝐚𝐜𝐡𝐞 𝐒𝐰𝐚𝐩 𝐃𝐄𝐗
 
